@@ -440,7 +440,3 @@ class Flight {
         }
     }
 }
-
-// Initialize the framework on include
-Flight::init();
-?>
