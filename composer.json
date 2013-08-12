@@ -1,5 +1,5 @@
 {
-    "name": "mikecao/flight",
+    "name": "sam-media/flight",
     "autoload": {
         "files": ["flight/Flight.php"]
     },
